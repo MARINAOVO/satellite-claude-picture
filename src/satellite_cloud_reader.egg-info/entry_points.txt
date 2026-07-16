@@ -1,0 +1,2 @@
+[console_scripts]
+satellite-cloud-reader = satellite_cloud_reader.main:main

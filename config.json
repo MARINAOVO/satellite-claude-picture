@@ -1,0 +1,22 @@
+{
+  "default_bbox": [
+    -37.553,
+    70.12,
+    -36.08,
+    71.56
+  ],
+  "lookback_days": 7,
+  "trend_count": 3,
+  "stable_threshold_percent": 5.0,
+  "cloud_layers": [
+    "MODIS_Aqua_Cloud_Fraction_Day",
+    "MODIS_Terra_Cloud_Fraction_Day"
+  ],
+  "preview_layers": [
+    "MODIS_Aqua_CorrectedReflectance_TrueColor",
+    "MODIS_Terra_CorrectedReflectance_TrueColor"
+  ],
+  "image_width": 900,
+  "image_height": 520,
+  "google_maps_api_key": ""
+}
