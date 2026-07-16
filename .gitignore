@@ -9,3 +9,6 @@ cache/*
 !cache/.gitkeep
 reports/*
 !reports/.gitkeep
+!reports/ui_preview_region_refresh.png
+!reports/ui_preview_weather_advice.png
+!reports/ui_preview_with_data.png
