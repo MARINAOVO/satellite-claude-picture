@@ -19,12 +19,6 @@
 
 ![局部区域与天气建议](reports/ui_preview_weather_advice.png)
 
-### 完整分析结果
-
-结果页同时展示影像图层、有效覆盖率、数据来源，以及在线获取或本地缓存状态。
-
-![完整分析结果](reports/ui_preview_with_data.png)
-
 ## 主要功能
 
 - 从 NASA GIBS WMS 自动获取近期可用的 MODIS Aqua / Terra 影像
